@@ -12,7 +12,7 @@ import AlamofireObjectMapper
 import ObjectMapper
 import CoreData
 import DownPicker
-import CDAlertView
+
 
 class SearchResponseController: UIViewController {
     
