@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "07X-Sj-E7A"; */
+"07X-Sj-E7A.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "3Zs-7X-ihw"; */
+"3Zs-7X-ihw.title" = "Settings";
+
+/* Class = "UILabel"; text = "genre"; ObjectID = "81M-dB-DRb"; */
+"81M-dB-DRb.text" = "genre";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "94b-qH-blO"; */
+"94b-qH-blO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BYI-8B-Dvv"; */
+"BYI-8B-Dvv.text" = "Label";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "F1X-Bn-va7"; */
+"F1X-Bn-va7.text" = "Favorites";
+
+/* Class = "UILabel"; text = "genre"; ObjectID = "FPj-7g-VN3"; */
+"FPj-7g-VN3.text" = "genre";
+
+/* Class = "UITextField"; placeholder = "Fullname"; ObjectID = "G5f-e3-gsu"; */
+"G5f-e3-gsu.placeholder" = "Fullname";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "INc-Bj-cvr"; */
+"INc-Bj-cvr.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Watch Later"; ObjectID = "Lr2-yB-pIU"; */
+"Lr2-yB-pIU.title" = "Watch Later";
+
+/* Class = "UILabel"; text = "All Movies"; ObjectID = "Nai-aR-Vp0"; */
+"Nai-aR-Vp0.text" = "All Movies";
+
+/* Class = "UILabel"; text = "Quotes"; ObjectID = "O6l-9i-LzS"; */
+"O6l-9i-LzS.text" = "Quotes";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "PAm-FL-Chn"; */
+"PAm-FL-Chn.text" = "Favorites";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pt8-PV-lDA"; */
+"Pt8-PV-lDA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RB2-tb-Nns"; */
+"RB2-tb-Nns.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Pick the date of watching..."; ObjectID = "Rau-eS-K6m"; */
+"Rau-eS-K6m.placeholder" = "Pick the date of watching...";
+
+/* Class = "UINavigationItem"; title = "New Movie"; ObjectID = "TQt-QO-C0B"; */
+"TQt-QO-C0B.title" = "New Movie";
+
+/* Class = "UILabel"; text = "Watch later"; ObjectID = "URt-Bg-xrt"; */
+"URt-Bg-xrt.text" = "Watch later";
+
+/* Class = "UILabel"; text = "Watching Date:"; ObjectID = "V4U-gV-HP9"; */
+"V4U-gV-HP9.text" = "Watching Date:";
+
+/* Class = "UILabel"; text = "Watch Later"; ObjectID = "Vyo-tQ-upk"; */
+"Vyo-tQ-upk.text" = "Watch Later";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YPb-en-MGX"; */
+"YPb-en-MGX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bIN-Bk-m4X"; */
+"bIN-Bk-m4X.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "See all >"; ObjectID = "bxg-RQ-9pm"; */
+"bxg-RQ-9pm.normalTitle" = "See all >";
+
+/* Class = "UILabel"; text = "Add to favorites"; ObjectID = "c3S-iM-tv6"; */
+"c3S-iM-tv6.text" = "Add to favorites";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "dAu-yP-bsu"; */
+"dAu-yP-bsu.title" = "Favorites";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "duW-rq-sjK"; */
+"duW-rq-sjK.title" = "Movies";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gp5-9X-gE8"; */
+"gp5-9X-gE8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Set Password"; ObjectID = "hXM-gq-53d"; */
+"hXM-gq-53d.normalTitle" = "Set Password";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "opu-Wp-IvK"; */
+"opu-Wp-IvK.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "qa7-AO-62q"; */
+"qa7-AO-62q.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Watch later"; ObjectID = "roN-6v-HRq"; */
+"roN-6v-HRq.text" = "Watch later";
+
+/* Class = "UILabel"; text = "Watching Date:"; ObjectID = "sKv-2K-T86"; */
+"sKv-2K-T86.text" = "Watching Date:";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "ydc-yp-dAI"; */
+"ydc-yp-dAI.normalTitle" = "Register";
