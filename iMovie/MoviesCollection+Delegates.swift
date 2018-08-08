@@ -9,12 +9,29 @@
 import UIKit
 import CoreData
 
-extension MoviesCollection: UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UICollectionViewDelegate {
+extension MoviesCollection: UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UICollectionViewDelegate, EditableCollection {
+   
+    func deleteItem(withIndex index: Int) {
+        let movie = movies[index]
+        let context = CoreDataManager.sharedInstance.context
+        context.delete(movie)
+        movies.remove(at: index)
+        
+        do {
+            try context.save()
+        } catch {
+            print("Error")
+        }
+        moviesCollection.reloadData()
+    }
+    
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let movie = movies[indexPath.row]
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellIdentifier, for: indexPath) as! MovieCell
         
+        cell.index = indexPath
+        cell.delegate = self
         cell.layer.cornerRadius = 10
         cell.layer.masksToBounds = true
         cell.movieTitle.text = movie.value(forKeyPath: "title") as? String

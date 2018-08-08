@@ -158,7 +158,7 @@ class CoreDataManager {
     
     // MARK: - Delete Object From Coredata
     
-    func deleteMovie(with title: String) {
+    func deleteMovie(withTitle title: String) {
         let fetchRequest = NSFetchRequest<NSManagedObject>(entityName: "Movie")
         let predicate = NSPredicate(format: "title = %@", title)
         fetchRequest.predicate = predicate

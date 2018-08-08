@@ -16,3 +16,7 @@ protocol Shareble {
 protocol Alertable {
     func addAlert()
 }
+
+protocol EditableCollection {
+    func deleteItem(withIndex index: Int)
+}
