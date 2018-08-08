@@ -41,6 +41,7 @@ class MoviesCollection: UIViewController {
     var urlToSaveSnap: URL!
     let blurManager = BlurManager.sharedManager
     
+    
     // MARK: - View Life Cycle
     
     override func viewDidLoad() {
@@ -60,11 +61,7 @@ class MoviesCollection: UIViewController {
     
     fileprivate func toggleBarButtonItems() {
         for barButton in barButtonItems {
-            if movies.count > 0 {
-                barButton.isEnabled = true
-            } else {
-                barButton.isEnabled = false
-            }
+            barButton.isEnabled = movies.count > 0 ? true : false
         }
     }
     
